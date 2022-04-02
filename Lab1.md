@@ -3,7 +3,7 @@
 var1 = "Hello\tWorld!
 print(var1)
 
->>>Hello  World!
+>>> Hello  World!
 ```
  
 'r' przed łańcuchem znaków ignoruje znak ucieczki
@@ -12,7 +12,7 @@ print(var1)
 var2 = r"Hello\tWorld!"
 print(var2)
 
->>>Hello\tWorld!
+>>> Hello\tWorld!
 ```
     
 'f' przed łańcuchem znaków pozwala na formatowanie(wywołanie funkcji format())
@@ -21,5 +21,5 @@ var_ = "World"
 var3 = f"Hello {var_}!"
 print(var3)
 
->>>Hello  World!
+>>> Hello  World!
 ```
