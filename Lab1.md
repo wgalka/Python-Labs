@@ -9,15 +9,17 @@ print(var1)
 'r' przed łańcuchem znaków ignoruje znak ucieczki
 
 ```python
-    var2 = r"Hello\tWorld!"
-    print(var2)
+var2 = r"Hello\tWorld!"
+print(var2)
+
+>>>Hello\tWorld!
 ```
-    >>>Hello\tWorld!
     
 'f' przed łańcuchem znaków pozwala na formatowanie(wywołanie funkcji format())
 ```python
-    var_ = "World"
-    var3 = f"Hello {var_}!"
-    print(var3)
+var_ = "World"
+var3 = f"Hello {var_}!"
+print(var3)
+
+>>>Hello  World!
 ```
-     >>>Hello  World!
