@@ -4,13 +4,13 @@
     
     >>>Hello  World!
  
-'r' przed łańcychem znaków ignoruje znak ucieczki
+'r' przed łańcuchem znaków ignoruje znak ucieczki
     var2 = r"Hello\tWorld!"
     print(var2)
     
     >>>Hello\tWorld!
     
-'f' przed łańcychem znaków pozwala na formatowanie(wywołanie funkcji format())
+'f' przed łańcuchem znaków pozwala na formatowanie(wywołanie funkcji format())
     var_ = "World"
     var3 = f"Hello {var_}!"
     print(var3)
