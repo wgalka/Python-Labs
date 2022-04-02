@@ -1,8 +1,10 @@
  
+    '''Python
     var1 = "Hello\tWorld!
     print(var1)
     
     >>>Hello  World!
+    '''
  
 'r' przed łańcuchem znaków ignoruje znak ucieczki
 
