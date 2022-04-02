@@ -24,5 +24,5 @@ print(var3)
 
 >>> Hello  World!
 ```
-***
+---
 Python 3.10
