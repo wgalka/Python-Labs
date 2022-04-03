@@ -24,5 +24,15 @@ print(var3)
 
 >>> Hello  World!
 ```
+
+Podzielić zdanie na słowa można wykorzystując funkcję split(sep=' ') gdzie parametr sep jest znakiem według którego podzielimy zdanie na słowa.
+```python
+var_str = "Hello world"
+
+var_list = var_str.split(' ')
+print(var_list)
+```
+
+
 ---
 <sub>Python 3.10</sub>
